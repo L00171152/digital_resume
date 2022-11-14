@@ -1,1 +1,1 @@
-Cool website 1
+Cool website 
